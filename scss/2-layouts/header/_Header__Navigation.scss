@@ -1,5 +1,5 @@
-@use "../../1-base/variables";
-@use "../../3-modules/mixins";
+@use '../../1-base/variables';
+@use '../../3-modules/mixins';
 
 .Navigation__Container {
   @include mixins.container;

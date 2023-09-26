@@ -1,7 +1,7 @@
-@use "../../1-base/variables";
-@use "Header__Information";
-@use "Header__Main";
-@use "Header__Navigation.scss";
+@use '../../1-base/variables';
+@use 'Header__Information';
+@use 'Header__Main';
+@use 'Header__Navigation.scss';
 
 .Header {
   &__Information {
